@@ -1,0 +1,17 @@
+h1 {
+    color: red; 
+    text-align: center; 
+}
+p:first-of-type {
+  color: yellow; 
+    font-size: 13px; 
+    font-family: Arial, sans-serif; 
+}
+p:last-of-type {
+    background-color: yellow; 
+    font-weight: bold; 
+    font-size: 13px; 
+    font-family: "Times New Roman", serif; 
+    padding: 5px; 
+    margin-top: 10px;
+}
